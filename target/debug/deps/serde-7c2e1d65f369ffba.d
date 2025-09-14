@@ -1,0 +1,11 @@
+D:\Rust\Projects\read-csv\target\debug\deps\serde-7c2e1d65f369ffba.d: C:\Users\Alisha\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.221\src\lib.rs C:\Users\Alisha\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.221\src\integer128.rs C:\Users\Alisha\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.221\src\private\mod.rs C:\Users\Alisha\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.221\src\private\de.rs C:\Users\Alisha\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.221\src\private\ser.rs
+
+D:\Rust\Projects\read-csv\target\debug\deps\libserde-7c2e1d65f369ffba.rlib: C:\Users\Alisha\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.221\src\lib.rs C:\Users\Alisha\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.221\src\integer128.rs C:\Users\Alisha\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.221\src\private\mod.rs C:\Users\Alisha\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.221\src\private\de.rs C:\Users\Alisha\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.221\src\private\ser.rs
+
+D:\Rust\Projects\read-csv\target\debug\deps\libserde-7c2e1d65f369ffba.rmeta: C:\Users\Alisha\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.221\src\lib.rs C:\Users\Alisha\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.221\src\integer128.rs C:\Users\Alisha\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.221\src\private\mod.rs C:\Users\Alisha\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.221\src\private\de.rs C:\Users\Alisha\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.221\src\private\ser.rs
+
+C:\Users\Alisha\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.221\src\lib.rs:
+C:\Users\Alisha\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.221\src\integer128.rs:
+C:\Users\Alisha\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.221\src\private\mod.rs:
+C:\Users\Alisha\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.221\src\private\de.rs:
+C:\Users\Alisha\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.221\src\private\ser.rs:
